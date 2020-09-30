@@ -1,6 +1,6 @@
 # ScreenRecorder
 
-Python command line based tool to record your laptop/pc screen.
+Python command line based tool to record your Laptop/PC screen.
 
 # Usage
 
